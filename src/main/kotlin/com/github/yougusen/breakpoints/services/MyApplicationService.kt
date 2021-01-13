@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.yougusen.breakpoints.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.yougusen.breakpoints.MyBundle
 
 class MyApplicationService {
 
